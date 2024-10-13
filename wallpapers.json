@@ -1360,38 +1360,5 @@
             "Boating",
             "Relaxation"
         ]
-    },
-    "0038": {
-        "name": "Boat Adventure wallpaper",
-        "thumbnail": "https://www.dropbox.com/scl/fi/jkllx9wk5d8x4jk2a8ok6/Boat-Adventure-wallpaper_480p.jpeg?rlkey=vyitgx3majzo1yflxgih0tt90&st=2eevrv5b&dl=1",
-        "Quality_thumbnail": "https://www.dropbox.com/scl/fi/cnmgsetfcct09nd06m52h/Boat-Adventure-wallpaper_720p.jpeg?rlkey=rcfl53vluv372n1alx9r045ar&st=ghd32y66&dl=1",
-        "type": "2",
-        "orientation": "land",
-        "link": {
-            "1080p": [
-                "1.49 MB",
-                "logo/2024-09-24_17-16-27_5406.mp4"
-            ],
-            "720p": [
-                "623.16 KB",
-                "logo/2024-09-24_17-16-27_5406.mp4"
-            ],
-            "480p": [
-                "313.06 KB",
-                "logo/2024-09-24_17-16-27_5406.mp4"
-            ]
-        },
-        "tags": [
-            "BoatAdventure",
-            "WaterSports",
-            "Marine",
-            "Travel",
-            "Adventure",
-            "Ocean",
-            "Nature",
-            "Exploration",
-            "Boating",
-            "Relaxation"
-        ]
     }
 }
